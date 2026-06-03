@@ -1,16 +1,17 @@
-## Hi there 👋
+Introducing Myself 👋
 
-<!--
-**nikhilparihar5080/nikhilparihar5080** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm Nikhil, a self-taught data analyst. I transitioned to data and have been teaching myself Excel, SQL, Power BI, and Python ever since.
 
-Here are some ideas to get you started:
+💡 My Skills
+Data preparation, quality assurance, and analysis
+Dashboard development and reporting
+Transforming raw data into actionable insights
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ My Tools
+Databases: SQL (MySQL, PostgreSQL)
+Visualisation: Power BI,Tableau, Excel
+Python: NumPy, Pandas, Matplotlib, Seaborn
+
+🙌🏻 Connect with Me
+Linkedin: https://www.linkedin.com/in/nikhil-parihar-12b426321/
+Email: nikhilpa5080@gmail.com
